@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">A tech digital nomad, roaming the globe while coding and troubleshooting.</h3>
+<h1 align="center">Hi 👋, I'm Jacob! # Welcome to my GitHub! 🚀</h1>
+<h3 align="center">
+
+I'm a fervent tech aficionado with a rich history as a serial entrepreneur, now enjoying the freedom of digital nomadism. My journey in the tech industry has transitioned from pioneering ventures to empowering others through IT support. I thrive on the move, leveraging technology to connect, create, and solve problems wherever I find myself in the world.
+
+Feel free to explore my repositories and let's innovate together!
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobisaaq&label=Profile%20views&color=0e75b6&style=flat" alt="jacobisaaq" /> </p>
 
